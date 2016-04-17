@@ -21,7 +21,7 @@ Dream image:
 
 # References
 
-[Photo Gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
+[Photo Gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)  
 Original authors:
 * [Alexander Mordvintsev](mailto:moralex@google.com)
 * [Michael Tyka](https://www.twitter.com/mtyka)
